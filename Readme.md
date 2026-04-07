@@ -1,4 +1,6 @@
-# R code to generate Figures 1-5 of 15Gene signature paper JCO PO
+# Figures for 15Gene ccRCC [paper](https://ascopubs.org/doi/full/10.1200/PO.23.00565) published in JCO PO
+
+# Author: Srinivas Nallandhighal
 
 # Prepare files to plot Figure-1B
 
