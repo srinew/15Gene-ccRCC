@@ -598,7 +598,7 @@ ggforest(coxfit2,fontsize = 1,main = paste0("Figure-2D"))
 
 ![](Title_files/figure-gfm/Figure-2C%202D-1.png)![](Title_files/figure-gfm/Figure-2C%202D-2.png)
 
-Prepare files to plot Figures-3
+# Prepare files to plot Figures-3
 
 ``` r
 test.tcga <- test.tcga1[rownames(test.tcga1) %in% rownames(int.symb),]
